@@ -14,5 +14,9 @@
     "redis",
     "cache",
     "nodejs"
-  ]
+  ],
+  "dependencies": {
+    "redis": "~0.10.x",
+    "mkdirp": "~0.3.x"
+  }
 }
