@@ -18,5 +18,8 @@
   "dependencies": {
     "redis": "~0.10.x",
     "mkdirp": "~0.3.x"
+  },
+  "publishConfig" : {
+    "registry" : "https://nexus.avantio.int/repository/npm-private/"
   }
 }
