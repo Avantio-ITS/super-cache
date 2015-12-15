@@ -1,6 +1,6 @@
 {
   "name": "super-cache",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple librería para cachear cosas en clave valor.",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "redis": "~0.10.x",
     "mkdirp": "~0.3.x"
   },
-  "publishConfig" : {
-    "registry" : "https://nexus.avantio.int/repository/npm-private/"
+  "publishConfig": {
+    "registry": "https://nexus.avantio.int/repository/npm-private/"
   }
 }
