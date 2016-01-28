@@ -1,6 +1,6 @@
 {
   "name": "super-cache",
-  "version": "0.0.2-dev",
+  "version": "0.0.3-dev",
   "description": "Simple librería para cachear cosas en clave valor.",
   "main": "index.js",
   "license": "MIT",
